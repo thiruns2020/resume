@@ -1,25 +1,19 @@
 const profileData = {
   title: 'Resume',
-  name: 'Vipin Yadav',
-  sub_title: 'Full-Stack Developer',
-  logoURL: 'assets/images/dp.jpg',
+  name: 'Thirun Sivarajan',
+  sub_title: 'Experinced IT Senior Analyst',
+  logoURL: 'assets/images/photo.png',
   about: {
-    intro: `I am an innovative and passionate developer with a primary interest in <strong>JavaScript</strong>
-     and it's applications. Experienced in designing and implementing sophisticated UI/UX with
-      Progressive Web Application standards and application life-cycle managements.`,
+    intro: `11+ years’ working experience in “hands-on” technical and leadership roles in diverse IT environments. 
+Highly proficient in managing Incident, Problem, Change, Service Availability and Capacity aligned with ITIL Service Management Process Experienced in vendor management, maintained strong and effective working relationships with vendors/service providers`,
     contact: {
-      email: 'imvpn22@gmail.com',
-      phone: '+91-9919716378',
-      address: 'Bengaluru, Karnataka 560035'
+      email: 'thirunanthini@gmail.com',
+      phone: '+61 416 841 008',
     }
   },
   links: [
-    // { title: 'Portfolio', src: 'https://imvpn22.github.io/' },
-    { title: 'Github', src: 'https://github.com/imvpn22' },
-    { title: 'Codepen', src: 'https://codepen.io/imvpn22' },
-    { title: 'LinkedIn', src: 'https://www.linkedin.com/in/imvpn22' }
-    // { title: 'Twitter', src: 'https://twitter.com/iam_vipinn' }
-    // { title: 'HackerEarth', src: 'https://www.hackerearth.com/@imvpn22' },
+    { title: 'LinkedIn', src: 'https://www.linkedin.com/in/thirun-sivarajan-4852a85/' }
+
   ],
   education: [
     {
